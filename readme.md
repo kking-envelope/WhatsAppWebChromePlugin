@@ -2,7 +2,7 @@
 
 You can install this plugin yourself as a developer; see: [https://developer.chrome.com/extensions/getstarted#unpacked](https://developer.chrome.com/extensions/getstarted#unpacked)
 
-# License
+## License
 
 This plugin is licensed under the MIT License [http://mit-license.org/](http://mit-license.org/)
 
@@ -16,7 +16,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-# Disclaimer
+## Disclaimer
+
+**This is an unofficial app. It is not associated with WhatsApp in any way.**
 
 WhatsApp, Google, Chrome, and any other 3rd party trademarks and copyrights
 are provided for informational purposes only; they remain the property of
