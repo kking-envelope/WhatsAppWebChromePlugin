@@ -6,7 +6,7 @@ You can install this plugin yourself as a developer; see: [https://developer.chr
 
 This plugin is licensed under the MIT License [http://mit-license.org/](http://mit-license.org/)
 
-Copyright &copy; 2015 Kevin King
+Copyright &copy; 2015
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,

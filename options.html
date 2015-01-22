@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="/styles/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="/styles/font-awesome.css" type="text/css" />
 </head>
-<body style="padding-top: 70px;">
+<body style="padding-top: 70px; padding-bottom: 70px;">
     <section id="body">
         <div class="container">
             <div class="row">
@@ -20,20 +20,25 @@
     <footer class="navbar navbar-default navbar-fixed-bottom">
         <div class="container">
             <div class="navbar-text">
-                Version: <span class="app-version"></span> | Copyright &copy; 2015 Kevin King | <a class="text-link" href="http://mit-license.org/">MIT License</a> | <a class="text-link" href="https://github.com/kking124/WhatsAppWebChromePlugin">Source Code</a>
+                Version: <span class="app-version"></span> | Copyright &copy; 2015 | <a class="text-link" href="http://mit-license.org/" target="_blank">MIT License</a> | <a class="text-link" href="https://github.com/kking124/WhatsAppWebChromePlugin" target="_blank"><i class="fa fa-github"><span class="sr-only">Github</span></i> Source Code</a>
             </div>
         </div>
     </footer>
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#header">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="/options.html">WhatsApp Web Plugin</a>
+            </div>
+            <div id="header" class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="https://web.whatsapp.com">Launch Native</a></li>
+                </ul>
             </div>
         </div>
     </nav>
