@@ -11,13 +11,13 @@
     ],
     "browser_action": {
         //"default_icon": {
-        //    "38": "_icons/icon-high-dpi.png"
+        //    "38": "icons/icon-38.png"
         //},
         "default_title": "WhatsApp",
         "default_popup": "popup.html"
     
     },
-    //"icons": { "32" : "_icons/icon-32.png", "64": "_icons/icon-64.png", "128": "_icons/icon-128.png" },
+    //"icons": { "32" : "icons/logo-32.png", "64": "icons/logo-64.png", "128": "icons/logo-128.png" },
     "options_page": "options.html",
     "background": {
         "page": "background.html",
