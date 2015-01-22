@@ -10,7 +10,7 @@
         "https://web.whatsapp.com/"
     ],
     "browser_action": {
-        //"default_icon": { "38": "icons/icon-38.png" },
+        "default_icon": { "38": "icons/icon-new-38.png" },
         "default_title": "WhatsApp",
         "default_popup": "popup.html"
     
