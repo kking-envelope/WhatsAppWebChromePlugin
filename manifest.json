@@ -1,9 +1,9 @@
 ﻿{
     "manifest_version": 2,
-    "name": "WhatsApp Popup",
+    "name": "__MSG_name__",
     "default_locale": "en",
     "version": "1.0",
-    "description": "Run web.whatsapp.com as a popup",
+    "description": "__MSG_description__",
     "permissions": [
         "storage",
         "tabs",
@@ -20,9 +20,5 @@
     "background": {
         "page": "background.html",
         "persistent": true
-    },
-    "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
-    "web_accessible_resources": [
-        "popup.html", "/options.html", "/background.html"
-    ]
+    }
 }
